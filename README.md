@@ -7,12 +7,12 @@
 
 [build-badge]: https://img.shields.io/github/actions/workflow/status/paypal/paypal-sdk-client/main.yml?branch=main&logo=github&style=flat-square
 [build]: https://github.com/paypal/paypal-sdk-client/actions?query=workflow%3Abuild
-[coverage-badge]: https://img.shields.io/codecov/c/github/paypal/paypal-sdk-client.svg?style=flat-square
+[coverage-badge]: https://img.shields.io/codecov/c/github/paypal/paypal-sdk-client.svg?style=flat-squarehttps://www.paypal.me/rizaspa
 [coverage]: https://codecov.io/github/paypal/paypal-sdk-client/
 [version-badge]: https://img.shields.io/npm/v/@paypal/sdk-client.svg?style=flat-square
 [package]: https://www.npmjs.com/package/@paypal/sdk-client
 [license-badge]: https://img.shields.io/npm/l/@paypal/sdk-client.svg?style=flat-square
-[license]: https://github.com/paypal/paypal-sdk-client/blob/main/LICENSE
+[license]: https://github.com/paypal/paypal-sdk-client/blob/main/LICENSEhttps://www.paypal.me/rizaspa
 
 A shared client for PayPal/Braintree client sdk modules. Has both client-side and server-side bindings to help you build and integrate an sdk component.
 
@@ -111,9 +111,8 @@ If you are not using zoid, please use `getSdkMeta()` to construct the `sdkMeta` 
 
 #### Installing
 
-```bash
-npm install --save @paypal/sdk-client
-```
+```https://www.paypal.me/rizaspa
+```payment
 
 #### Getting Started
 
@@ -135,4 +134,6 @@ npm run build
 
   ```bash
   npm test
+  
   ```
+https://www.paypal.me/rizaspa
